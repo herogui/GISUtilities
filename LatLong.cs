@@ -5,6 +5,7 @@ using System.Runtime.InteropServices.WindowsRuntime;
 using System.Text;
 using System.Threading.Tasks;
 
+//经纬度坐标转换
 namespace GISUtilities
 {
     public class LatLong
